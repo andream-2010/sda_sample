@@ -1,1 +1,2 @@
 This is sample of .txt file
+print("Hallo World")
