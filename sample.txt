@@ -1,2 +1,5 @@
 This is sample of .txt file
 print("Hallo World")
+print("Helloo World")
+print("Hi Andrejka")
+
