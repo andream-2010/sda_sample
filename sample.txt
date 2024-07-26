@@ -1,14 +1,5 @@
 This is sample of .txt file
-print("Hallo World")
-<<<<<<< HEAD
-print("Helloo World")
-print("Today is a good day")
 
-
-=======
 print("Hello World")
-print("Hi World")
-print("Hi Andrea")
-print("Try to connect again and work where I stopped")
-print("nieco nefunguje, piatok vecer")
->>>>>>> a9a711fb192d5e2b87470d86030dcaaaf75b9ed3
+print("Friday changes made")
+
